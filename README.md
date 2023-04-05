@@ -16,7 +16,7 @@ Supposedly , we also need to decide if we want to have the "Release" option for 
 Get clearance for website design and add content.
 
 ## Task 3
-We need to add content.
+We need to add images, branding, favicons.
 
 ## Task 4
-We need to add images, branding, favicons.
+Get a custom domain, and move the website there. Remove information related to the original template used here, (docsy)[https://github.com/vsoch/docsy-jekyll]
