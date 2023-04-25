@@ -15,6 +15,10 @@ This project is part of [the National Language Processing plan of Israel](https:
 
 <div style="text-align:center; margin-top:30px; margin-bottom:20px;">
     <a href="https://innovationisrael.org.il/"><img src="{{site.baseurl}}/assets/img/logos/800px-Israel-Innovation-Authority-logo.png" /></a>
-    <!--<a href="https://www.runi.ac.il/en/research-institutes/business/dsi/"><img src="{{site.baseurl}}/assets/img/logos/800px-DSI-logo-eng-blue.png" /></a>-->
+    <!--
+    <a href="https://www.runi.ac.il/en/research-institutes/business/dsi/"><img src="{{site.baseurl}}/assets/img/logos/800px-DSI-logo-eng-blue.png" /></a>
     <a href="{{site.other_web_address}}">{% include DSI-logo-eng-blue.svg %}</a>
+    -->
+    
+    <a href="{{site.other_web_address}}"><img src="{{site.baseurl}}/assets/img/logos/DSI-logo-eng-blue.svg" alt="DSI logo" style="width: 50%; height: auto;"></a>
 </div>
