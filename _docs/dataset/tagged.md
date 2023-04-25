@@ -1,11 +1,13 @@
 ---
-title: (Coming Soon) Tagged dataset
+title: Tagged dataset
 description: Download the Tagged dataset
 categories: [dataset]
 ---
 
 # Tagged dataset
 
-{% include alert.html type="warning" title="Add description!" %}
+<div style="text-align:center; margin-top:30px; margin-bottom:20px;">
+    {% include coming-soon-image.svg %}
+    <h1 style="font-size: 2em; font-weight: normal; text-transform: lowercase;">Coming soon!</h1>
+</div>
 
-Fill this page.

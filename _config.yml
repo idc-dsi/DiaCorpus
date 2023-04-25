@@ -23,30 +23,32 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Israel
 
-title: Arabic Corpus Project
-email: matans844@gmail.com
+title: DiaCorpus Project
+email: dsi@runi.ac.il
 author: Data Science Institute
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collaborative project between the Data Science Institute (DSI) and Israeli Innovation authority 
+  to create a first of a kind Arabic textual repository, in a local dialect (Israeli / Palestinian).
+  Part of the National Language Processing plan of Israel.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/arabic-corpus" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://matans844.github.io/DiaCorpus/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/Matans844/docsy-jekyll"
-github_user: "Matans844"
-github_repo: "docsy-jekyll"
-github_branch: "master"
+repo: "https://github.com/idc-dsi/DiaCorpus"
+github_user: "idc-dsi"
+github_repo: "DiaCorpus"
+github_branch: "main"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+# twitter: vsoch
+linkedin: "https://www.linkedin.com/in/avrahami-israeli/"
+# dockerhub: vanessa
+other_web_address: "https://www.runi.ac.il/en/research-institutes/business/dsi/" 
+website_template: "https://github.com/vsoch/docsy-jekyll"
 
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
@@ -76,9 +78,11 @@ feedback: false
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
-logo_pixels: 34
+# logo_pixels: 34
 color: "#30638e"
 # color: "#8c1515" # primary color for header, buttons
+# brandlogo : "assets/img/logo/DSI-logo-eng-white-135x40.png"
+# brandlogo : "assets/img/logo/RU-Data-Science-logo-eng-white.svg"
 
 # Build settings
 markdown: kramdown

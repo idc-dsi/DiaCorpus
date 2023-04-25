@@ -7,7 +7,7 @@ permalink: /institute/
 
 # Data Science Institute
 
-Welcome to the {{ site.title }} Operating Institute pages! Here you can quickly jump to a 
+Welcome to the {{ site.title }} operating unstitute pages! Here you can quickly jump to a 
 particular page.
 
 <div class="section-index">
