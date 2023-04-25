@@ -20,5 +20,5 @@ This project is part of [the National Language Processing plan of Israel](https:
     <a href="{{site.other_web_address}}">{% include DSI-logo-eng-blue.svg %}</a>
     -->
     
-    <a href="{{site.other_web_address}}"><img src="{{site.baseurl}}/assets/img/logos/DSI-logo-eng-blue.svg" alt="DSI logo" style="width: 65%; height: auto;"></a>
+    <a href="{{site.other_web_address}}"><img src="{{site.baseurl}}/assets/img/logos/DSI-logo-eng-blue.svg" alt="DSI logo" style="width: 75%; height: auto;"></a>
 </div>
