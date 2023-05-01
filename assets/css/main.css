@@ -17776,15 +17776,6 @@ html body .md-typeset .headerlink {
     padding-bottom: 1rem
 }
 
-@media(min-width:768px) {
-    .td-sidebar {
-        padding-top: 4rem;
-        background-color: rgba(48, 99, 142, .03);
-        padding-right: 1rem;
-        border-right: 1px solid #dee2e6
-    }
-}
-
 .td-sidebar__toggle {
     line-height: 1;
     color: #222;
