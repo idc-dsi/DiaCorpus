@@ -6,7 +6,7 @@ description: Data Science Institute Reichman description
 
 # Data Science Institute
 
-Welcome to the {{ site.title }} operating unstitute pages! Here you can quickly jump to a 
+Welcome to the {{ site.title }} operating institute pages! Here you can quickly jump to a 
 particular page.
 
 <div class="section-index">
@@ -19,4 +19,7 @@ particular page.
       </div>
     {% endif %}
   {% endfor %}
+  <div class="entry">
+    <h5>Visit us at <a href="{{site.other_web_address}}">the Data Science Institute Website</a></h5>
+  </div>
 </div>
