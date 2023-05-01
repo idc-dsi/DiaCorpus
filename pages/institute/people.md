@@ -6,6 +6,4 @@ description: Get to know our team
 
 # Our team
 
-{% include alert.html type="warning" title="Add description!" %}
-
-Fill people details.
+{% include people-table.html %}
