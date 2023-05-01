@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documentation
-description: Contents
+title: Contents
+description: Documentation website contents
 ---
 
 # Documentation
