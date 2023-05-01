@@ -81,8 +81,7 @@ feedback: false
 # logo_pixels: 34
 color: "#30638e"
 # color: "#8c1515" # primary color for header, buttons
-# brandlogo : "assets/img/logo/DSI-logo-eng-white-135x40.png"
-# brandlogo : "assets/img/logo/RU-Data-Science-logo-eng-white.svg"
+brandlogo : "{{ site.baseurl }}/assets/img/logo/DSI-logo-eng-white.svg"
 
 # Build settings
 markdown: kramdown

@@ -18,4 +18,4 @@ Our focus areas include:
 * Business: Utilizing predictive modelling in fintech, targeted advertising, pricing, business analytics, decision making, and risk management.
 * AI and Cognitive Computing: Modeling interactions between emotion, cognition, and behavior.
 
-To learn more, visit us in our [website]({{site.other_web_address}}) or [contact us](/contact).
+To learn more, visit us in our [website]({{site.other_web_address}}).
