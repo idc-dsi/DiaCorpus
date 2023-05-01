@@ -2,7 +2,6 @@
 layout: page
 title: Institute
 description: Data Science Institute Reichman description
-permalink: /institute/
 ---
 
 # Data Science Institute

@@ -1,7 +1,6 @@
 ---
 title: About
 description: Project description
-permalink: /about/
 categories: [project]
 ---
 
@@ -33,4 +32,4 @@ The National Natural Language Processing Program of Israel (NNLP-IL) is a nation
 The DSI has been selected to develop one of the modules in this national program: The creation of dialectic Arabic corpora and datasets.
 
 ### Resources
-For more information on the National Program for Natural Language Processing: [https://www.nationalplanil.ai/](https://www.nationalplanil.ai/)
+For more information on the National Program for Natural Language Processing: [https://www.nationalplanil.ai/](https://www.nationalplanil.ai/).

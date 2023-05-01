@@ -2,7 +2,6 @@
 layout: page
 title: Project
 description: Index page
-permalink: /project/
 ---
 
 # Project

@@ -2,7 +2,6 @@
 layout: page
 title: Dataset
 description: Dataset Index page
-permalink: /dataset/
 ---
 
 # Dataset

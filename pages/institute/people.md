@@ -2,7 +2,6 @@
 layout: page
 title: People
 description: Get to know our team
-permalink: /people/
 ---
 
 # Our team
