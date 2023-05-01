@@ -1,8 +1,8 @@
 - title: Documentation
-  url: "docs/topic.documentation"
+  url: "docs/documentation"
 
 - title: Project
-  url: "docs/topic.project"
+  url: "docs/project"
   links:
     - title: About
       url: "docs/project/about"
@@ -10,7 +10,7 @@
       url: "docs/project/licensing"
 
 - title: Dataset
-  url: "docs/topic.dataset"
+  url: "docs/dataset"
   links:
     - title: General Information
       url: "docs/dataset/general-information"
@@ -27,14 +27,14 @@
       url: "docs/dataset/tagged"
 
 - title: News and Updates
-  url: "pages/topic.news"
+  url: "pages/news"
 
 - title: Who we are?
-  url: "pages/topic.institute"
+  url: "pages/institute"
   links:
     - title: Data Science Institute
       url: "pages/institute/about"
     - title: People
       url: "pages/institute/people"
     - title: Contact us
-      url: "pages/institute/contact"
+      url: "pages/institute/reach-out"
