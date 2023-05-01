@@ -1,17 +1,3 @@
-.container-fluid.td-outer {
-    margin-top: 2em;
-}
-
-.td-toc {
-    margin-top: 3em;
-}
-
-/*
-.navbar-brand {
-    padding: 1rem;
-    height: auto;
-}
-*/
 
 @media(max-width:991.98px) {
     .td-navbar {
@@ -46,7 +32,6 @@
 }
 
 
-
 @media(min-width:768px) {
     @supports((position: -webkit-sticky) or (position: sticky)) {
         .td-sidebar-nav {
@@ -56,7 +41,6 @@
         }
     }
 }
-
 
 @media(min-width:768px) {
     .td-sidebar-nav {
@@ -301,53 +285,6 @@
 }
 
 
-.navbar-brand {
-    display: inline-block;
-    padding-top: .3125rem;
-    padding-bottom: .3125rem;
-    margin-right: 1rem;
-    font-size: 1.25rem;
-    line-height: inherit;
-    white-space: nowrap
+.text-uppercase {
+    text-transform: uppercase!important
 }
-
-.navbar-brand:hover,
-.navbar-brand:focus {
-    text-decoration: none
-}
-
-
-.navbar-light .navbar-brand {
-    color: rgba(0, 0, 0, .9)
-}
-
-.navbar-light .navbar-brand:hover,
-.navbar-light .navbar-brand:focus {
-    color: rgba(0, 0, 0, .9)
-}
-
-.navbar-dark .navbar-brand {
-    color: #fff
-}
-
-.navbar-dark .navbar-brand:hover,
-.navbar-dark .navbar-brand:focus {
-    color: #fff
-}
-
-.td-navbar .navbar-brand {
-    text-transform: none;
-    text-align: middle
-}
-
-.td-navbar .navbar-brand .nav-link {
-    display: inline-block;
-    margin-right: -30px
-}
-
-.td-navbar .navbar-brand svg {
-    display: inline-block;
-    margin: 0 10px;
-    height: 30px
-}
-
