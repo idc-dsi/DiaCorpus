@@ -6,40 +6,16 @@ categories: [dataset]
 
 # Unatagged dataset
 
-{% include alert.html type="warning" title="Get files, with partition!" %}
+{% include alert.html type="warning" title="Partial list!" %}
 
-## Single file downloads
 
 Single-file downloads are available here:
 
-| Type        | Links       |
-| ----------- | ----------- |
-| Podcast data     | link        |
-| Interview data   | link        |
 
+| Type             | .csv          | .json       |
+| -----------      | -----------   | ----------- |
+| Podcast data     | [download][1]     | [download][2]   |
+| Interview data   | soon          | soon        |
 
-## File-by-file downloads
-
-### Podcast data
-
-| #   | Name       | Link     |
-| --- | ---------- | -----    |
-| 1   | file       | link     |
-| 2   | file       | link     |
-| 3   | file       | link     |
-| 4   | file       | link     |
-| 5   | file       | link     |
-| 6   | file       | link     |
-
-
-
-### Interview data
-
-| #   | Name       | Link     |
-| --- | ---------- | -----    |
-| 1   | file       | link     |
-| 2   | file       | link     |
-| 3   | file       | link     |
-| 4   | file       | link     |
-| 5   | file       | link     |
-| 6   | file       | link     |
+[1]:{{ site.baseurl }}/assets/download/csv.zip
+[2]:{{ site.baseurl }}/assets/download/json.zip
