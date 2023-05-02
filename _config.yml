@@ -37,9 +37,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # This is mostly for testing
 # url: "https://matans844.github.io" # the base hostname & protocol for your site
 
-# Site publication location <----------------------------------------------- Important!
-# url: "https://matans844.github.io"  # for staging in repo: matans844
-url: "https://idc-dsi.github.io"    #for production in repo: idc-dsi
+# -------------------------------------------------------------------------------------------
+# Site publication location: Important!
+# For deployment in staging repo, use the "matans844" repo.
+# For deployment in production repo, use the "idc-dsi" reop.
+# url: "https://matans844.github.io" 
+url: "https://idc-dsi.github.io"
+# -------------------------------------------------------------------------------------------
 
 # Social (First three Required)
 repo: "https://github.com/idc-dsi/DiaCorpus"
