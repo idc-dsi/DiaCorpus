@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Documentation
-description: Contents
-permalink: /docs/
+title: Contents
+description: Documentation website contents
 ---
 
 # Documentation
 
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
+Welcome to the {{ site.title }} documentation pages! Here you can quickly jump to a 
 particular page.
 
 

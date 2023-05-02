@@ -1,6 +1,5 @@
 ---
 title: News and Updates
-permalink: /news/
 ---
 
 # News and Updates

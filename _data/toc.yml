@@ -1,8 +1,11 @@
+- title: Homepage
+  url: ""
+
 - title: Documentation
-  url: docs
+  url: "docs/documentation"
 
 - title: Project
-  url: project
+  url: "docs/project"
   links:
     - title: About
       url: "docs/project/about"
@@ -10,34 +13,31 @@
       url: "docs/project/licensing"
 
 - title: Dataset
-  url: "dataset"
+  url: "docs/dataset"
   links:
     - title: General Information
-      url: "docs/dataset/about"
+      url: "docs/dataset/general-information"
       children:
         - title: Descriptive statistics
-          url: "docs/dataset/about#descriptive-statistics"
+          url: "docs/dataset/general-information#descriptive-statistics"
         - title: Number of lines
-          url: "docs/dataset/about#number-of-lines"
+          url: "docs/dataset/general-information#number-of-lines"
         - title: Number of columns
-          url: "docs/dataset/about#number-of-columns"
+          url: "docs/dataset/general-information#number-of-columns"
     - title: Untagged dataset
       url: "docs/dataset/not-tagged"
-    - title: Tagged dataset
+    - title: (Soon) Tagged dataset
       url: "docs/dataset/tagged"
 
-- title: Archive
-  url: "archive"
-
 - title: News and Updates
-  url: "news"
+  url: "pages/news"
 
 - title: Who we are?
-  url: "institute"
+  url: "pages/institute"
   links:
     - title: Data Science Institute
-      url: "about"
+      url: "pages/institute/about"
     - title: People
-      url: "people"
+      url: "pages/institute/people"
     - title: Contact us
-      url: "contact"
+      url: "pages/institute/reach-out"
