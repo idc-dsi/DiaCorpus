@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dataset
-description: Dataset Index page
+title: index
+description: Dataset index page
 ---
 
 # Dataset
@@ -12,7 +12,7 @@ particular page.
 <div class="section-index">
   <hr class="panel-line">
   {% for docs_post in site.docs %}
-    {% if docs_post.path contains '/dataset/' %}
+    {% if docs_post.path contains '/dataset/' and docs_post.title != 'index' %}
       <div class="entry">
         <h5><a href="{{ docs_post.url | prepend: site.baseurl }}">{{ docs_post.title }}</a></h5>
         <p>{{ docs_post.description }}</p>

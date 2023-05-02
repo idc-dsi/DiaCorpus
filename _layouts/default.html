@@ -46,7 +46,7 @@
 	      <ol class="breadcrumb spb-1">
               {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
               {% for crumb in crumbs offset: 1 %}
-                {% if crumb != "index" %}
+                {% if crumb != "index" and crumb != "pages"%}
                   {% if forloop.last %}
                     <li class="breadcrumb-item active" aria-current="page">
                       <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
