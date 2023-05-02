@@ -30,10 +30,10 @@
       url: "docs/dataset/tagged"
 
 - title: News and Updates
-  url: "pages/news"
+  url: "pages/news/"
 
 - title: Who we are?
-  url: "pages/institute"
+  url: "pages/institute/"
   links:
     - title: Data Science Institute
       url: "pages/institute/about"
