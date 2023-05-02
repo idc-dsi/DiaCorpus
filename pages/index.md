@@ -1,27 +1,22 @@
 ---
 layout: page
-title: Homepage
-permalink: /
+description: Pages index page
 ---
 
-# Welcome to DiaCorpus Repository
+# Pages
 
-The DiaCorpus project is a collaboration between the Data Science Institute (DSI) and Israeli Innovation authority. 
-
-The purpose of the project is to create a first of a kind Arabic textual repository, in a local dialect (Israeli / Palestinian).
-
-This project is part of [the National Language Processing plan of Israel](https://ar.nationalplanil.ai/).
+Welcome to the {{ site.title }} pages page! Here you can quickly jump to a 
+particular page.
 
 
-
-<div style="margin-top:80px; margin-bottom:20px; border-top: 1px solid #ccc; padding-top: 30px;">
-  
-  <a href="https://innovationisrael.org.il/"><img src="{{site.baseurl}}/assets/img/logos/800px-Israel-Innovation-Authority-logo.png" style="width: 50%; height: auto; float: left;">
-  </a>
-  
-  <a href="{{site.other_web_address}}">
-  <img src="{{site.baseurl}}/assets/img/logos/DSI-logo-eng-blue.svg" alt="DSI logo" style="width: 50%; height: auto; float: right;">
-  </a>
-
-  <div style="clear: both;"></div>
+<div class="section-index">
+  <hr class="panel-line">
+  {% for docs_post in site.pages %}
+    {% if docs_post.title != 'index' %}
+      <div class="entry">
+        <h5><a href="{{ docs_post.url | prepend: site.baseurl }}">{{ docs_post.title }}</a></h5>
+        <p>{{ docs_post.description }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
