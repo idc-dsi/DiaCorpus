@@ -41,8 +41,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Site publication location: Important!
 # For deployment in staging repo, use the "matans844" repo.
 # For deployment in production repo, use the "idc-dsi" reop.
-# url: "https://matans844.github.io" 
-url: "https://idc-dsi.github.io"
+url: "https://matans844.github.io" 
+# url: "https://idc-dsi.github.io"
 # -------------------------------------------------------------------------------------------
 
 # Social (First three Required)
