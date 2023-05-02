@@ -2,10 +2,10 @@
   url: ""
 
 - title: Documentation
-  url: "docs/documentation"
+  url: "docs/"
 
 - title: Project
-  url: "docs/project"
+  url: "docs/project/"
   links:
     - title: About
       url: "docs/project/about"
@@ -13,7 +13,7 @@
       url: "docs/project/licensing"
 
 - title: Dataset
-  url: "docs/dataset"
+  url: "docs/dataset/"
   links:
     - title: General Information
       url: "docs/dataset/general-information"
