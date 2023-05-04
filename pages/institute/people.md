@@ -6,4 +6,4 @@ description: Get to know our team
 
 # Our team
 
-{% include people-table.html %}
+{% include people-table-script.html %}
