@@ -3,7 +3,7 @@
     {% assign person = site.data.people | where: "order", i | first %}
     {% if person %}
       <div class="person">
-        <img src="{{ site.url }}/{{ site.peoplePhotos }}/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.name }}">
+        <img src="{{ site.baseurl }}/{{ site.peoplePhotos }}/{{ person.image }}" width="{{ person.width }}" height="{{ person.height }}" alt="{{ person.name }}">
         <div class="person-name">
           <p>{{ person.name }}</p>
           {% if person.link contains 'linkedin.com' %}
