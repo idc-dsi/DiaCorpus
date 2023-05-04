@@ -1,0 +1,60 @@
+/*
+.people-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+
+.person {
+    flex-basis: calc(20% - 10px);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.person img {
+    width: 60%;
+    height: auto;
+}
+
+
+.person-name a {
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 16px;
+}
+*/
+
+.people-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+    padding-top: 30px;
+}
+
+.person {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.person img {
+    width: 60%;
+    height: auto;
+}
+
+.person-name {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+}
+
+.person-name a {
+    margin-left: 10px;
+}
+
+.filler {
+    background-color: transparent;
+}

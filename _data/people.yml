@@ -1,0 +1,59 @@
+- name: Shai Fine
+  image: 01_shai-fine.jpeg
+  link: https://www.linkedin.com/in/shai-fine/
+  order: 1
+
+- name: Avrahami Israeli
+  image: 02_avrahami-israeli.jpg
+  link: https://www.linkedin.com/in/avrahami-israeli/
+  order: 2
+
+- name: Yossi Mann
+  image: 03_dr-yossi-mann.jpg
+  link: https://ict.org.il/ourteam/mann-yossi-dr/
+  order: 3
+
+- name: Kfir Bar
+  image: 04_dr-kfir-bar.jpg
+  link: https://www.linkedin.com/in/kfirbar/
+  order: 4
+
+- name: Matan Sheskin
+  image: 05_matan-sheskin.jpg
+  link: https://www.linkedin.com/in/matan-sheskin/
+  order: 5
+
+- name: Aviv Naaman
+  image: 06_aviv-naaman.jpg
+  link: https://www.linkedin.com/in/avivnaaman/
+  order: 6
+
+- name: Raawa Makhoul
+  image: 07_raawa-makhoul.jpg
+  link: https://www.linkedin.com/in/rawaa-ma/
+  order: 7
+
+- name: Julian Jubran
+  image: 08_julian-jubran.jpg
+  link: https://www.linkedin.com/in/julian-charbel-j/
+  order: 8
+
+- name: Dana Karain
+  image: 09_dana-karain.jpg
+  link: https://www.linkedin.com/in/dana-karain-7a48601b0/
+  order: 9
+
+- name: Eden Bokobza
+  image: 10_eden-bokobza.jpg
+  link: https://www.linkedin.com/in/eden-bokobza-35b368213/
+  order: 10
+
+- name: Guy Maduel
+  image: 11_guy-maduel.jpg
+  link: https://www.linkedin.com/in/guy-maduel/
+  order: 11
+
+- name: Matan Eblagon
+  image: 12_matan-eblagon.jpg
+  link: https://www.linkedin.com/in/eblagonmatan/
+  order: 12
