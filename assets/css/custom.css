@@ -353,31 +353,6 @@
     height: 60px
 }
 
-.people-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding-top: 60px;
-}
-
-.person {
-    flex-basis: calc(20% - 10px);
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.person img {
-    width: 60%;
-    height: auto;
-}
-
-
-.person-name a {
-    display: inline-block;
-    margin-left: 10px;
-    font-size: 16px;
-  }
-
 /*
 .linkedin-link a {
     text-decoration: underline;
