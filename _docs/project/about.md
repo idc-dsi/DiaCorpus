@@ -5,7 +5,7 @@ categories: [project]
 ---
 
 # The DiaCorpus Project
-A collaborative project between the Data Science Institute (DSI) and Israeli Innovation authority to create Dialectic Arabic Corpora, a first of a kind Arabic textual repository, in a local dialect (Israeli / Palestinian). The project is part of the National Language Processing plan of Israel.
+A collaborative important project between the Data Science Institute (DSI) and Israeli Innovation authority to create Dialectic Arabic Corpora, a first of a kind Arabic textual repository, in a local dialect (Israeli / Palestinian). The project is part of the National Language Processing plan of Israel.
 
 ## Goal
 Development of a large, comprehensive, and annotated corpora in Palestinian Arabic dialect. Part of the national NLP program.
