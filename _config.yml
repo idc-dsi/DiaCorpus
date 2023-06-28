@@ -42,8 +42,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # For deployment in staging repo, use the "abrahami" repo.
 # For deployment in production repo, use the "idc-dsi" repo.
 # url: "https://matans844.github.io" 
-url: "https://abrahami.github.io"
-# url: "https://idc-dsi.github.io"
+# url: "https://abrahami.github.io"
+url: "https://idc-dsi.github.io"
 # -------------------------------------------------------------------------------------------
 
 # Social (First three Required)
