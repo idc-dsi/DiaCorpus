@@ -2,7 +2,7 @@ version: '3.7'
 services:
   site:
     container_name: docsy
-    command: jekyll serve --watch --drafts
+    command: jekyll serve --force_polling --watch --drafts
     image: jekyll/jekyll:3.8
     volumes: 
       - "./:/srv/jekyll"
