@@ -18,4 +18,4 @@ Single-file downloads are available here:
 | Interview data   | soon          | soon        |
 
 [1]:{{ site.baseurl }}/assets/download/csv.zip
-[2]:{{ site.baseurl }}/assets/download/json.zip
+[2]:{{ site.baseurl }}/assets/download/podcasts_jsons.zip
