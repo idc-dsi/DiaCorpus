@@ -15,7 +15,8 @@ Single-file downloads are available here:
 | Type             | .csv          | .json       |
 | -----------      | -----------   | ----------- |
 | Podcast data     | [download][1]     | [download][2]   |
-| Interview data   | soon          | soon        |
+| Interview data   | soon          | [download][3]   |
 
 [1]:{{ site.baseurl }}/assets/download/csv.zip
 [2]:{{ site.baseurl }}/assets/download/podcasts_jsons.zip
+[3]:{{ site.baseurl }}/assets/download/interviews_jsons.zip
