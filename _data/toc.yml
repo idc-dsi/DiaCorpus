@@ -26,7 +26,7 @@
           url: "docs/dataset/general-information#number-of-columns"
     - title: Untagged dataset
       url: "docs/dataset/not-tagged"
-    - title: (Soon) Tagged dataset
+    - title: Tagged dataset
       url: "docs/dataset/tagged"
 
 - title: News and Updates

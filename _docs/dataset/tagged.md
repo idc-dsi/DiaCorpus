@@ -11,8 +11,11 @@ Single-file downloads are available here:
 
 | Type             | .csv          | 
 | -----------      | -----------   |
-| Podcast data     | [download][1] |
-| Interview data   | [download][2]  |
+| Sentiment Analysis     | [download][1] |
+| Emotion Recognition   | [download][2]  |
+| Named Entity Recognition (NER)   | [download][3]  |
 
-[1]:{{ site.baseurl }}/assets/download/podcasts_csvs.zip
-[2]:{{ site.baseurl }}/assets/download/podcasts_jsons.zip
+
+[1]:{{ site.baseurl }}/assets/download/sentiment_annotated_csv.csv
+[2]:{{ site.baseurl }}/assets/download/emotions_annotated_csv.csv
+[3]:{{ site.baseurl }}/assets/download/ner_annotated_csv.csv
